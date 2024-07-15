@@ -14,5 +14,6 @@ The SBG-VSWIR data product algorithms include:
 
 
 ## Related Repositories and Organizations
-
+- [ISOFIT Atmospheric Correction](https://github.com/isofit/isofit)
+- [The EMIT Science Data System](https://github.com/emit-sds)
 
