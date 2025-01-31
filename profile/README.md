@@ -11,6 +11,7 @@ The SBG-VSWIR data product algorithms include:
 - [Level 2b Hydrology/Snow Physics](https://github.com/sbg-vswir/sbg-vswir-l2b-hydrology-snow-physics)
 - [Level 2b Geology](https://github.com/sbg-vswir/sbg-vswir-l2b-geology)
 - [Level 2b Terrestrial Vegetation](https://github.com/sbg-vswir/sbg-vswir-l2b-terrestrial-veg)
+- [Level 2b Fractional Cover](https://github.com/sbg-vswir/sbg-vswir-l2b-cover/blob/main/README.md)
 
 
 ## Related Repositories and Organizations
